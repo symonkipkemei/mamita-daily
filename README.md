@@ -14,6 +14,10 @@ Mamita daily :
 - Monitors business accounts
 - Tracks personal expenditures
 
+
+# Process
+These are the steps that will be followed to achieve the end outcome
+
 ## Built With
 
 - Python
