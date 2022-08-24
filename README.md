@@ -17,6 +17,7 @@ Mamita daily :
 
 # Process
 These are the steps that will be followed to achieve the end outcome
+Getting started
 
 ## Built With
 
